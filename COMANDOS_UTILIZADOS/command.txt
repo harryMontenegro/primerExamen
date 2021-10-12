@@ -1,0 +1,3 @@
+El comando cp, se utiliza para hacer copiado de archivos y carpetas atraves de opciones se puede especificar lo que se desea ahcer.
+
+
